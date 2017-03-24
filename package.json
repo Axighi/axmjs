@@ -1,0 +1,24 @@
+{
+  "name": "axmjs",
+  "version": "1.0.0",
+  "description": "All the JavaScript stuff used in Axmtec.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axighi/axmjs.git"
+  },
+  "keywords": [
+    "javascript",
+    "axm",
+    "react"
+  ],
+  "author": "Azriel Liang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axighi/axmjs/issues"
+  },
+  "homepage": "https://github.com/Axighi/axmjs#readme"
+}
