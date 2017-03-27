@@ -1,6 +1,6 @@
 {
   "name": "axmjs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "All the JavaScript stuff used in Axmtec.",
   "main": "dist/main.js",
   "scripts": {
