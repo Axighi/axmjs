@@ -19,7 +19,7 @@ export function requireAll(requireContext) {
   return ret;
 }
 
-export default helpers = {
+export default {
   findGetParameter,
   requireAll
 }

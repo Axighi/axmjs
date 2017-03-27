@@ -1,9 +1,12 @@
 import Indicator from './components/Indicator';
 import Timer from './lib/timer';
-import helpers from './lib/helpers';
+import * as helpers from './lib/helpers';
+
+const wtf = 'hi';
 
 export {
   Indicator,
   Timer,
-  helpers
+  helpers,
+  wtf
 }

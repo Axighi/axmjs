@@ -8,8 +8,10 @@ module.exports = function () {
     },
     output: {
       path: path.join(__dirname, './dist'),
-      filename: '[name].js',
-      sourceMapFilename: '[name].map'
+      filename: 'index.js',
+      library: "axmjs", // string,
+      libraryTarget: "umd", // universal module definition
+      sourceMapFilename: 'index.map'
     },
     resolve: {
       extensions: ['.js', '.json'],
