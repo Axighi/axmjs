@@ -1,12 +1,6 @@
-import Indicator from './components/Indicator';
-import Timer from './lib/timer';
-import * as helpers from './lib/helpers';
+import Indicator from "./components/Indicator";
+import Timer from "./lib/timer";
+import * as helpers from "./lib/helpers";
+import Weather from "./components/Weather";
 
-const wtf = 'hi';
-
-export {
-  Indicator,
-  Timer,
-  helpers,
-  wtf
-}
+export { Weather, Timer, helpers };
